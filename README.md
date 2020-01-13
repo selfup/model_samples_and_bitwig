@@ -63,7 +63,9 @@ Then on Track 1 turn down the volume of the sample to 0 if you are monitoring yo
 
 ![image](https://user-images.githubusercontent.com/9837366/72223284-ab7db280-3532-11ea-878b-399a58038d18.png)
 
-#### Now Click Add (either options will work for this tutorial)
+#### Now Click Add (either option will work)
+
+We aren't going to map knobs or anything. Just pure note data.
 
 ![image](https://user-images.githubusercontent.com/9837366/72223290-b6d0de00-3532-11ea-8081-f21262984d1a.png)
 
