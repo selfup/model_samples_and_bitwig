@@ -1,6 +1,6 @@
 # Model Samples and Bitwig
 
-A how to for gear I don't really understand yet..
+A how-to for gear I don't really understand yet..
 
 ## Preface
 
